@@ -27,7 +27,10 @@
     "exclude": [],
     "rules": {
       "include": [],
-      "exclude": []
+      "exclude": [],
+      "tags": [
+        "recommended"
+      ]
     }
   }
 }
