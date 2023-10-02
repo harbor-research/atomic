@@ -3,7 +3,7 @@ export {
   type FeaturesProps,
   Footer,
   type FooterProps,
-  Header,
+  // Header,
   HeaderLogo,
   type HeaderProps,
   Hero,
@@ -24,7 +24,4 @@ export { PostWithFeed, type PostWithFeedProps } from "../src.deps.ts";
 
 export { ProfileDisplay, type ProfileDisplayProps } from "../src.deps.ts";
 
-export {
-  BuildFeedCard,
-  type BuildFeedCardProps,
-} from "./feed/BuildFeedCard.tsx";
+export { HarborHeader } from "./HarborHeader.tsx";
