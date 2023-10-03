@@ -10,7 +10,7 @@ import {
 export function HarborHeader(props: HeaderProps) {
   return (
     <Header
-      class={classSet(undefined, "bg-blue-500")}
+      class={classSet(undefined, "bg-[#3E5F7A]-500")}
       logo={
         <Action
           href="/"
