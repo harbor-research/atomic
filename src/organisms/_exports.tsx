@@ -14,14 +14,4 @@ export {
   type StepsFeaturesProps,
 } from "../src.deps.ts";
 
-export { FeedCard, type FeedCardProps } from "../src.deps.ts";
-
-export { FeedCardList, type FeedCardListProps } from "../src.deps.ts";
-
-export { PostForm, type PostFormProps } from "../src.deps.ts";
-
-export { PostWithFeed, type PostWithFeedProps } from "../src.deps.ts";
-
-export { ProfileDisplay, type ProfileDisplayProps } from "../src.deps.ts";
-
 export { HarborHeader } from "./HarborHeader.tsx";
