@@ -5,4 +5,5 @@ export {
   type ActionProps,
   ActionStyleTypes,
 } from "../src.deps.ts";
+export { Logo, type LogoProps } from "./Logo.tsx";
 export * from "./forms/_exports.tsx";
