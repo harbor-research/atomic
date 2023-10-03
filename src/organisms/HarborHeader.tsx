@@ -10,7 +10,6 @@ import {
 export function HarborHeader(props: HeaderProps) {
   return (
     <Header
-      class={classSet(undefined, "bg-[#3E5F7A]-500")}
       logo={
         <Action
           href="/"
@@ -20,6 +19,7 @@ export function HarborHeader(props: HeaderProps) {
         </Action>
       }
       {...props}
+      class={classSet(props, "bg-[#3E5F7A]-500")}
     />
   );
 }
