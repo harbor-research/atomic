@@ -3,6 +3,8 @@ export {
   type ActionGroupProps,
   ChatBox,
   type ChatBoxProps,
+  ChatInput,
+  type ChatInputProps,
   Display,
   type DisplayProps,
   DisplayStyleTypes,
