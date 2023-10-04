@@ -1,6 +1,8 @@
 export {
   ActionGroup,
   type ActionGroupProps,
+  ChatBox,
+  type ChatBoxProps,
   Display,
   type DisplayProps,
   DisplayStyleTypes,
