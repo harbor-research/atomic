@@ -32,7 +32,7 @@ describe("Header Tests", () => {
       />,
     );
 
-    console.log(html);
+    // console.log(html);
     assert(html.includes("Contact"));
   });
 });

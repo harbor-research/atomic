@@ -1,2 +1,1 @@
-// export * from "../../../fathym-deno/atomic/mod.ts";
-export * from "https://deno.land/x/fathym_atomic@v0.0.68-integration/mod.ts";
+export * from "https://deno.land/x/fathym_atomic@v0.0.71/mod.ts";
