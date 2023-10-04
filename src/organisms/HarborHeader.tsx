@@ -19,7 +19,7 @@ export function HarborHeader(props: HeaderProps) {
         </Action>
       }
       {...props}
-      class={classSet(props, "bg-[#3E5F7A]-500")}
+      class={classSet(props, "bg-primary-500")}
     />
   );
 }
