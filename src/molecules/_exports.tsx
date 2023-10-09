@@ -17,7 +17,9 @@ export {
 
 export {
   BarChart,
+  BasicSummary,
   BubbleChart,
+  BulletList,
   Chart,
   DoughnutChart,
   LineChart,
