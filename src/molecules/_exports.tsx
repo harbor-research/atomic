@@ -20,7 +20,6 @@ export {
   BasicSummary,
   BubbleChart,
   BulletList,
-  Chart,
   DoughnutChart,
   LineChart,
   PieChart,
