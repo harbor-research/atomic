@@ -15,6 +15,16 @@ export {
   type ResponsiveSetProps,
 } from "../src.deps.ts";
 
-export { Chart, PieChart } from "../src.deps.ts";
+export {
+  BarChart,
+  BubbleChart,
+  Chart,
+  DoughnutChart,
+  LineChart,
+  PieChart,
+  PolarChart,
+  RadarChart,
+  ScatterChart,
+} from "../src.deps.ts";
 
 export { type Tab, Tabs, type TabsProps } from "../src.deps.ts";
