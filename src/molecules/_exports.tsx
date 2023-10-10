@@ -8,6 +8,8 @@ export {
   Display,
   type DisplayProps,
   DisplayStyleTypes,
+  LineItem,
+  type LineItemProps,
   MenuButton,
   type MenuButtonProps,
   MenuButtonStyleTypes,
