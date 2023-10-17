@@ -1,4 +1,7 @@
 export {
+  ChatHistory,
+  type ChatHistoryMessage,
+  type ChatHistoryProps,
   Features,
   type FeaturesProps,
   Footer,
